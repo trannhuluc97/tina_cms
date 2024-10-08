@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docusaurus_project=self.webpackChunkmy_docusaurus_project||[]).push([[426],{4484:a=>{a.exports=JSON.parse('{"allTagsPath":"/tina_cms/blog/tags","slug":"/tina_cms/blog/tags/hola","name":"hola","count":1,"permalink":"/tina_cms/blog/tags/hola"}')}}]);

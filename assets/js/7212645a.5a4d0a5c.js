@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docusaurus_project=self.webpackChunkmy_docusaurus_project||[]).push([[977],{8870:a=>{a.exports=JSON.parse('{"allTagsPath":"/tina_cms/blog/tags","slug":"/tina_cms/blog/tags/facebook","name":"facebook","count":1,"permalink":"/tina_cms/blog/tags/facebook"}')}}]);
